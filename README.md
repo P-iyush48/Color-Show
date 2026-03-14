@@ -2,11 +2,12 @@
  ● Random colors generate and display on screen with its RGB color code.
  ● Colors generate different RGB color code in every 1000ms (1s).
 
- # This project deployed in Netlify :
- ----------------------------------
- #👉 🔗https://random-color-generator-piyush48.netlify.app/ 
 
-Using: 
+ # This project deployed in Netlify :
+ 👉 🔗https://random-color-generator-piyush48.netlify.app/ 
+
+
+What i use in this project: 
 # DOM : Document Object Model 
     DOM use for Dynamic Manipulation in Javascript can add, remove, or change node's(html element) and attributes to create interactive web experiences.
 
