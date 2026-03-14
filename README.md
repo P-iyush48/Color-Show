@@ -1,5 +1,6 @@
 # Color-Show
  ● Random colors generate and display on screen with its RGB color code.
+ 
  ● Colors generate different RGB color code in every 1000ms (1s).
 
 
