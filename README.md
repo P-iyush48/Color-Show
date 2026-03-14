@@ -6,7 +6,7 @@
  # This project deployed in Netlify :
  👉 🔗https://random-color-generator-piyush48.netlify.app/ 
 
-
+--------------------------
 What i use in this project: 
 # DOM : Document Object Model 
     DOM use for Dynamic Manipulation in Javascript can add, remove, or change node's(html element) and attributes to create interactive web experiences.
