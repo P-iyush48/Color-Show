@@ -10,6 +10,8 @@
 What i use in this project: 
 # DOM : Document Object Model 
     DOM use for Dynamic Manipulation in Javascript can add, remove, or change node's(html element) and attributes to create interactive web experiences.
+    1. .style.background = `rbg_value which stored in variable`;
+    2. .innerText = ` rgb${color_code}`; 
 
 # Random(): 
     Using Math.random() function to generate the numbers, If you use Math.random() only then it return random decimal numbers between 0 to 1 ( like: 0.12, 0.85, etc ).
